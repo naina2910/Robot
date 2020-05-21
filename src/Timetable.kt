@@ -1,0 +1,1 @@
+data class Timetable (val sub1:String,val sub2:String)
